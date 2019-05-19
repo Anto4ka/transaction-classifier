@@ -1,6 +1,6 @@
 import csv
 import pandas as pd
-
+import sklearn
 
 trans = pd.read_csv("transactions.csv", sep=";")
 
@@ -21,6 +21,6 @@ colNames = trans.columns.values
 
 #for convenient analysis
 trans.drop(columns=["Buchungstag", "label", "Betrag"], inplace=True)
+c = sklearn.feature_extraction.text.CountVectorizer()
+print(trans)
 
-print(colNames)
-print(trans[trans.BLZ == "25190001"])
