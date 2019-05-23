@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cleaner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="53" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -176,8 +176,8 @@
     <entry file="file://$PROJECT_DIR$/transactions_cleaned_1.csv" />
     <entry file="file://$PROJECT_DIR$/cleaner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="53" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
